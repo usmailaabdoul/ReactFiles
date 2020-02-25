@@ -1,0 +1,4 @@
+to create a new text file using cmd ----> type nul > your_file.txt OR echo.> your_file.txt
+to open the same file without changing use ----> type nul >> your_file.txt
+
+for postgres --> psql -Upostgres

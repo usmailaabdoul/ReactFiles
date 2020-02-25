@@ -1,0 +1,11 @@
+for creating a new database 
+    => { createdb 'nameof db'
+
+for connecting database to postgres
+    =>  { psql 'db name'
+
+to access nano file
+    => { sudo nano /etc/postgresql/9.1/main/pg_hba.conf
+
+    => { sudo -u postgres psql template1
+
